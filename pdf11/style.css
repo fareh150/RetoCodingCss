@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "bela";
+    src: url(./fonts/Belanosima-Bold.ttf);
+}
+h1, h2{
+    font-family: "bela";
+}
+
+
+p{
+    font-family: 'Agdasima', sans-serif;
+}
+
+
+
